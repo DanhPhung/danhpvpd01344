@@ -1,0 +1,10 @@
+c:\users\fpd\documents\visual studio 2010\projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\fpd\documents\visual studio 2010\projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\fpd\documents\visual studio 2010\projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\fpd\documents\visual studio 2010\projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\danhpvpd01344_assigment 1\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
